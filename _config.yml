@@ -1,0 +1,14 @@
+layout_spectrum: 0.5902256
+color:
+  saturation: 0.82116
+  brandStrength: 0.3846112
+  lightness: 0.66431
+  rhythmicContrast: 0.6009667
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 0.2679914
+name: March St Boys
